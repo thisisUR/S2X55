@@ -50,7 +50,9 @@ cd to directory
 
 ## Run
 `$ java S2X55 [Payload]`
+
 **Sample command**
+
 `$ java S2X55 XSS`
 ##### O/P 
 `String.fromCharCode(88, 83, 83)` //ascii code for X - 88, S - 83
