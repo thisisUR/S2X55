@@ -42,8 +42,10 @@ class S2X55{
 ## Installing
 - Requirement - Install java JDK 
 
-git clone https://github.com/thisisUR/S2X55.git
+`git clone https://github.com/thisisUR/S2X55.git`
+
 cd to directory
+
 `$ javac S2X55.java`
 
 ## Run
